@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T14:41:30.358Z" agent="5.0 (Macintosh)" version="20.4.0" etag="PAEuKN-Z9UjULfv1Sb76" type="github"><diagram id="fVedEmRO5uLyhMAxF2ie">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-30T15:31:52.705Z" agent="5.0 (Macintosh)" etag="D1wUM5oQ0JlZtqKmRpeM" version="20.4.0" type="github">
+  <diagram id="fVedEmRO5uLyhMAxF2ie" name="Page-1">
+    <mxGraphModel dx="1780" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-1" target="olI5NsrXjDAWR4fgo8TI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-1" target="olI5NsrXjDAWR4fgo8TI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="120" />
+              <mxPoint x="330" y="290" />
+              <mxPoint x="425" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-1" value="&amp;nbsp;Can i install Azure Stack Hub on OCI BareMetal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-2" target="olI5NsrXjDAWR4fgo8TI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-2" value="Has someone done this before in cmcafee&#39;s org" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-4" target="olI5NsrXjDAWR4fgo8TI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-4" value="Expand your search" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="95" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-7" target="olI5NsrXjDAWR4fgo8TI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-7" value="has someone done in OCI-Azure Interconnect Team" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="80" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-9" target="olI5NsrXjDAWR4fgo8TI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-9" value="Can i cast a wider net within Oracle?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="65" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="420" as="targetPoint" />
+            <mxPoint x="805" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="783" y="310" />
+              <mxPoint x="845" y="310" />
+              <mxPoint x="845" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="650" />
+              <mxPoint x="889" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="616" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-11" value="Can i get the Azure Stack hub software and check pre-requisites " style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="332.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-16" value="Not able to ascertain, due to the lack of documentation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="968.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-19" target="olI5NsrXjDAWR4fgo8TI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-19" value="&lt;div&gt;I can get the pre-reqs for Azure Stack Development Kit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="969" y="390" width="181" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-20" value="&lt;div&gt;This is not of great use , since this is not the MS recommended for production workloads&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="390" width="181" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-22" value="Possible, but not sure&amp;nbsp; if there will be ROI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-26" value="We might need to get some partnership folks who can initiate this&lt;br&gt; discussion with MS to understand more about running Azure Stack on OCI" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="889" y="570" width="461" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-28" target="olI5NsrXjDAWR4fgo8TI-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-28" value="Is Azure Arc an option" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434.68" y="720" width="363.13" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-30" value="We will need to know the service stack used to figure out that" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="954.5" y="777.5" width="210" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
