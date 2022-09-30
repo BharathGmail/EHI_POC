@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T15:35:24.558Z" agent="5.0 (Macintosh)" etag="fa9i-DMudFIdZhI-S3Sn" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T15:54:04.218Z" agent="5.0 (Macintosh)" etag="6y_mhYNhZT3LU9-rpq7E" version="20.4.0" type="github">
   <diagram id="fVedEmRO5uLyhMAxF2ie" name="Page-1">
     <mxGraphModel dx="1780" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,34 +51,36 @@
             <mxPoint x="890" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11">
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="975" y="420" as="targetPoint" />
             <mxPoint x="805" y="280" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="783" y="310" />
-              <mxPoint x="845" y="310" />
-              <mxPoint x="845" y="420" />
+              <mxPoint x="783" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-26">
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="650" as="targetPoint" />
+            <mxPoint x="936.0799999999999" y="654.0799999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="650" />
-              <mxPoint x="889" y="650" />
+              <mxPoint x="750" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="olI5NsrXjDAWR4fgo8TI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="616" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="290" />
+              <mxPoint x="330" y="555" />
+              <mxPoint x="616" y="555" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-33">
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="820" as="targetPoint" />
+            <mxPoint x="1070" y="850" as="targetPoint" />
             <Array as="points">
               <mxPoint x="810" y="290" />
               <mxPoint x="810" y="820" />
@@ -89,6 +91,9 @@
         <mxCell id="olI5NsrXjDAWR4fgo8TI-11" value="Can i get the Azure Stack hub software and check pre-requisites " style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="332.5" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-16" target="olI5NsrXjDAWR4fgo8TI-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="olI5NsrXjDAWR4fgo8TI-16" value="Not able to ascertain, due to the lack of documentation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="968.75" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -96,7 +101,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="olI5NsrXjDAWR4fgo8TI-19" value="&lt;div&gt;I can get the pre-reqs for Azure Stack Development Kit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="969" y="390" width="181" height="90" as="geometry" />
+          <mxGeometry x="968.75" y="390" width="181" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-20" target="olI5NsrXjDAWR4fgo8TI-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="olI5NsrXjDAWR4fgo8TI-20" value="&lt;div&gt;This is not of great use , since this is not the MS recommended for production workloads&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="390" width="181" height="90" as="geometry" />
@@ -104,22 +112,37 @@
         <mxCell id="olI5NsrXjDAWR4fgo8TI-22" value="Possible, but not sure&amp;nbsp; if there will be ROI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1565" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-26" value="We might need to get some partnership folks who can initiate this&lt;br&gt; discussion with MS to understand more about running Azure Stack on OCI" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="889" y="570" width="461" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-28" target="olI5NsrXjDAWR4fgo8TI-30">
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="815" as="targetPoint" />
+            <mxPoint x="616.3000000000002" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-28" value="Is Azure Arc an option" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-28" value="Why is Azure Stack Hub the only option ? &lt;br&gt;Is Azure Arc an option" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434.68" y="720" width="363.13" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-30" value="We will need to know the service stack used to figure out that" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511.25" y="980" width="210" height="75" as="geometry" />
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-39" value="Discuss with MS Partnership Team" style="swimlane;labelBackgroundColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="560" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="olI5NsrXjDAWR4fgo8TI-33" value="&lt;div&gt;We might also need to check with the OCI product team to see , i&lt;/div&gt;&lt;div&gt;f they can bring up a HCI like the reference configuration provided by &lt;br&gt;&lt;/div&gt;&lt;div&gt;Microsoft&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="770" width="461" height="170" as="geometry" />
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-44" value="&lt;div&gt;We might need to get some partnership folks&lt;/div&gt;&lt;div&gt;&amp;nbsp;who can initiate this&lt;/div&gt;&lt;div&gt; discussion with MS to &lt;br&gt;&lt;/div&gt;&lt;div&gt;understand if and how we can run &lt;br&gt;&lt;/div&gt;&lt;div&gt;Azure Stack on OCI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#CCFFCC;" vertex="1" parent="olI5NsrXjDAWR4fgo8TI-39">
+          <mxGeometry y="40" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-45" value="Discuss with OCI Product Engineering Team" style="swimlane;labelBackgroundColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="760" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-46" value="&lt;div&gt;We might also need to check with the OCI &lt;br&gt;product team to understand the feasiblity of bringing up a HCI l&lt;/div&gt;&lt;div&gt;ike the reference configuration &lt;br&gt;&lt;/div&gt;&lt;div&gt;provided by &lt;br&gt;&lt;/div&gt;Microsoft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#CCFFCC;" vertex="1" parent="olI5NsrXjDAWR4fgo8TI-45">
+          <mxGeometry x="10" y="40" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-47" value="Set up a call with APRIMO" style="swimlane;labelBackgroundColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="450" y="980" width="395" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-48" value="&lt;div&gt;We need to check with Aprimo , and understand the solution architecture&lt;/div&gt;&lt;div&gt;&amp;nbsp;and evaluate options from our side &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#CCFFCC;" vertex="1" parent="olI5NsrXjDAWR4fgo8TI-47">
+          <mxGeometry x="-15" y="65" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-49" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1168.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-51" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1521.5" y="405" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
