@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T15:31:52.705Z" agent="5.0 (Macintosh)" etag="D1wUM5oQ0JlZtqKmRpeM" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T15:35:24.558Z" agent="5.0 (Macintosh)" etag="fa9i-DMudFIdZhI-S3Sn" version="20.4.0" type="github">
   <diagram id="fVedEmRO5uLyhMAxF2ie" name="Page-1">
     <mxGraphModel dx="1780" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,16 @@
             <mxPoint x="616" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olI5NsrXjDAWR4fgo8TI-11" target="olI5NsrXjDAWR4fgo8TI-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="290" />
+              <mxPoint x="810" y="820" />
+              <mxPoint x="930" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="olI5NsrXjDAWR4fgo8TI-11" value="Can i get the Azure Stack hub software and check pre-requisites " style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="332.5" height="200" as="geometry" />
         </mxCell>
@@ -106,7 +116,10 @@
           <mxGeometry x="434.68" y="720" width="363.13" height="190" as="geometry" />
         </mxCell>
         <mxCell id="olI5NsrXjDAWR4fgo8TI-30" value="We will need to know the service stack used to figure out that" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="954.5" y="777.5" width="210" height="75" as="geometry" />
+          <mxGeometry x="511.25" y="980" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="olI5NsrXjDAWR4fgo8TI-33" value="&lt;div&gt;We might also need to check with the OCI product team to see , i&lt;/div&gt;&lt;div&gt;f they can bring up a HCI like the reference configuration provided by &lt;br&gt;&lt;/div&gt;&lt;div&gt;Microsoft&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="770" width="461" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
